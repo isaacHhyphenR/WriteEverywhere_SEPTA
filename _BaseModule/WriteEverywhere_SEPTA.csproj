@@ -21,8 +21,8 @@
     <Version>1.0.0.0</Version>
     <GameVersion>1.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
-    <DisplayName>Write Everywhere Module Model Project</DisplayName>
-    <ShortDescription>Module to use along CS2 version of the mod Write Everywhere</ShortDescription>
+    <DisplayName>SEPTA Write Everywhere Module</DisplayName>
+    <ShortDescription>A Write Everywhere module containing SEPTA and PATCO images.</ShortDescription>
     <ForumLink></ForumLink>
     <GitHubLink></GitHubLink>
     <YoutubeLink></YoutubeLink>

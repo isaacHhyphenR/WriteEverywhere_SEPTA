@@ -1,7 +1,7 @@
 <Publish>
   <ModId Value="" />
-  <DisplayName Value="Write Everywhere Module Model Project" />
-  <ShortDescription Value="Module to use along CS2 version of the mod Write Everywhere" />
+  <DisplayName Value="SEPTA Write Everywhere Module" />
+  <ShortDescription Value="A Write Everywhere module containing SEPTA and PATCO images." />
   <LongDescription># Model project for Write Everywhre modules mods
 
 This is a project to be used as starter point to any new module pack of Write Everywhere mod for Cities Skylines 2.
@@ -23,7 +23,7 @@ After that, just don't forget to change the Version parameter in the csproj file
   <ModVersion Value="1.0.0.0" />
   <GameVersion Value="1.*" />
   <ChangeLog>#  v1.0.0r0
-\&lt;ADD CHANGES HERE\&gt;</ChangeLog>
+\&lt;Created module with several images\&gt;</ChangeLog>
   <Tag Value="Code Mod" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
 </Publish>
